@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Wolfgang Losert
-first_name: Wolfgang
-last_name: Losert
+title: Behtash Babadi
+first_name: Behtash
+last_name: Babadi
 
 weight: 10
 
 # Username (this should match the folder name)
 authors:
-  - Losert
+  - Babadi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -24,13 +24,13 @@ organizations:
 social:
   - icon: globe
     icon_pack: fas
-    link: https://losertlab.umd.edu/
+    link: https://user.eng.umd.edu/~behtash/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:wlosert@umd.edu'
+    link: 'mailto:behtash@umd.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=k1p5FagAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=Fu-5PbIAAAAJ&hl=en
 
 user_groups:
   - Principal Investigators

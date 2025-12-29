@@ -1,36 +1,36 @@
 ---
 # Display name
-title: Wolfgang Losert
-first_name: Wolfgang
-last_name: Losert
+title: Sarah Marzen
+first_name: Sarah
+last_name: Marzen
 
 weight: 10
 
 # Username (this should match the folder name)
 authors:
-  - Losert
+  - Marzen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Maryland, College Park
-    url: 'https://umd.edu/'
+  - name: Claremont Colleges
+    url: https://www.claremont.edu/
 
 social:
   - icon: globe
     icon_pack: fas
-    link: https://losertlab.umd.edu/
+    link: https://www.sarahmarzen.com/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:wlosert@umd.edu'
+    link: 'mailto:marzen.sarah@gmail.com'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=k1p5FagAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=BeGerHkAAAAJ&hl=en
 
 user_groups:
   - Principal Investigators

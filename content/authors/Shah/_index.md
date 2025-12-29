@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Wolfgang Losert
-first_name: Wolfgang
-last_name: Losert
+title: Sahil Shah
+first_name: Sahil
+last_name: Shah
 
 weight: 10
 
 # Username (this should match the folder name)
 authors:
-  - Losert
+  - Shah
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -24,13 +24,13 @@ organizations:
 social:
   - icon: globe
     icon_pack: fas
-    link: https://losertlab.umd.edu/
+    link: https://sites.google.com/umd.edu/shahlab/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:wlosert@umd.edu'
+    link: 'mailto:sshah389@umd.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=k1p5FagAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=mYJniWoAAAAJ&hl=en
 
 user_groups:
   - Principal Investigators

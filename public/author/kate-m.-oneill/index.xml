@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kate M. O&#39;Neill | Hybrid-AI</title>
-    <link>http://localhost:1313/author/kate-m.-oneill/</link>
-      <atom:link href="http://localhost:1313/author/kate-m.-oneill/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/hybrid-AI/author/kate-m.-oneill/</link>
+      <atom:link href="http://localhost:1313/hybrid-AI/author/kate-m.-oneill/index.xml" rel="self" type="application/rss+xml" />
     <description>Kate M. O&#39;Neill</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/kate-m.-oneill/avatar_hu_a5cfd415a5955544.jpeg</url>
+      <url>http://localhost:1313/hybrid-AI/author/kate-m.-oneill/avatar_hu_a5cfd415a5955544.jpeg</url>
       <title>Kate M. O&#39;Neill</title>
-      <link>http://localhost:1313/author/kate-m.-oneill/</link>
+      <link>http://localhost:1313/hybrid-AI/author/kate-m.-oneill/</link>
     </image>
     
     <item>
       <title>Kate M. O&#39;Neill</title>
-      <link>http://localhost:1313/author/kate-m.-oneill/</link>
+      <link>http://localhost:1313/hybrid-AI/author/kate-m.-oneill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/kate-m.-oneill/</guid>
+      <guid>http://localhost:1313/hybrid-AI/author/kate-m.-oneill/</guid>
       <description></description>
     </item>
     
