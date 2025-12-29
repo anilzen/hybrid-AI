@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wolfgang Losert | Hybrid-AI</title><link>https://anilzen.github.io/hybrid-AI/author/wolfgang-losert/</link><atom:link href="https://anilzen.github.io/hybrid-AI/author/wolfgang-losert/index.xml" rel="self" type="application/rss+xml"/><description>Wolfgang Losert</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://anilzen.github.io/hybrid-AI/author/wolfgang-losert/avatar_hu_9553968dbb977490.jpg</url><title>Wolfgang Losert</title><link>https://anilzen.github.io/hybrid-AI/author/wolfgang-losert/</link></image><item><title>Wolfgang Losert</title><link>https://anilzen.github.io/hybrid-AI/author/wolfgang-losert/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anilzen.github.io/hybrid-AI/author/wolfgang-losert/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wolfgang Losert | Hybrid-AI</title>
+    <link>http://localhost:1313/hybrid-AI/author/wolfgang-losert/</link>
+      <atom:link href="http://localhost:1313/hybrid-AI/author/wolfgang-losert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wolfgang Losert</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/hybrid-AI/author/wolfgang-losert/avatar_hu_9553968dbb977490.jpg</url>
+      <title>Wolfgang Losert</title>
+      <link>http://localhost:1313/hybrid-AI/author/wolfgang-losert/</link>
+    </image>
+    
+    <item>
+      <title>Wolfgang Losert</title>
+      <link>http://localhost:1313/hybrid-AI/author/wolfgang-losert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hybrid-AI/author/wolfgang-losert/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
