@@ -38,10 +38,10 @@ sections:
     
       # # Email form provider
       # form:
-      #   provider: netlify
+      #   provider: 
       #   formspree:
       #     id:
-      #   netlify:
+      #   :
       #     # Enable CAPTCHA challenge to reduce spam?
       #     captcha: false
     design:
