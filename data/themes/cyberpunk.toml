@@ -1,0 +1,24 @@
+# Theme metadata
+name = "cyberpunk"
+
+[light]
+  # Primary (CTA buttons): toned-down magenta (cyberpunk, but academic)
+  primary = "#1F5566"
+
+  # Menu: deep ink bar
+  menu_primary = "#0B1220"
+  menu_text = "#F3F1EC"
+  # Active menu highlight: muted teal (keeps the cyberpunk vibe without neon cyan)
+  menu_text_active = "#2A8FA3"
+  menu_title = "#F3F1EC"
+
+  # Links: dark, soft teal (high readability on paper background)
+  link = "#1F5566"
+  # Hover: slightly warmer “orchid” (subtle cyberpunk accent)
+  link_hover = "#7A2C7A"
+  link_decoration = "underline"
+
+  # Backgrounds: warm “paper” that matches your image
+  background = "#F3F1EC"
+  home_section_odd = "#F3F1EC"
+  home_section_even = "#EEE9E2"

@@ -1,0 +1,47 @@
+// Make page header alignment consistent with widget page header alignment
+.universal-wrapper h1 {
+  text-align: center;
+}
+
+// Center the CTA shortcode button
+.cta-group {
+  justify-content: center;
+}
+
+/* Feather ALL sides of the hero image into the background */
+.hero-feather img {
+  --fade: 12%; /* increase = wider fade band (try 10–18%) */
+
+  -webkit-mask-image:
+    linear-gradient(to right,
+      transparent 0%,
+      #000 var(--fade),
+      #000 calc(100% - var(--fade)),
+      transparent 100%),
+    linear-gradient(to bottom,
+      transparent 0%,
+      #000 var(--fade),
+      #000 calc(100% - var(--fade)),
+      transparent 100%);
+  -webkit-mask-size: 100% 100%, 100% 100%;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-composite: source-in;
+
+  mask-image:
+    linear-gradient(to right,
+      transparent 0%,
+      #000 var(--fade),
+      #000 calc(100% - var(--fade)),
+      transparent 100%),
+    linear-gradient(to bottom,
+      transparent 0%,
+      #000 var(--fade),
+      #000 calc(100% - var(--fade)),
+      transparent 100%);
+  mask-size: 100% 100%, 100% 100%;
+  mask-repeat: no-repeat;
+  mask-composite: intersect;
+
+  /* Optional: subtle lift */
+  filter: drop-shadow(0 16px 30px rgba(11, 18, 32, 0.16));
+}
