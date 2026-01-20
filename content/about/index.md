@@ -13,9 +13,11 @@ design:
 
 ---
 
+
 ### Joint Engineering of Living and Artificial Neural Networks for Context-Dependent Learning and Prediction
 
 Our multidisciplinary university research team, composed of experts in biophysics, physics, chemistry, neuromorphic engineering, and neuroscience, is set to revolutionize computing by developing Hybrid Adaptive Networks (HANs) that integrate the strengths of Living Neural Networks (LNNs) and Artificial Neural Networks (ANNs). These HANs are designed to combine the best of both worlds: the adaptive, context-sensitive, and energy-efficient learning capabilities inherent in LNNs, with the speed, precision, and reproducibility of ANNs. Our unique approach aims to create novel computing architectures that go beyond the limitations of traditional AI&ML systems, enabling advanced computing through synergy of biological & artificial systems. 
 
 The research for this MURI builds on work funded by the AFOSR Biophysics Program and the UMD-ARL Joint Research Laboratory (JRL).
 
+![HAN](HAN.png)

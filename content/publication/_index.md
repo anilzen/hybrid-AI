@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications and Inventions
 
 # Listing view
 view: citation
